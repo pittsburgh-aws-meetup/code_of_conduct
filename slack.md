@@ -13,39 +13,35 @@ We want this to be a fun, pleasant, and harassment-free experience for everyone,
 
 If you are interested in being an admin, please contact the Admins.
 
-Rules:
+Rules
 -----------------
 
-1) **No harrassing behavior** (see below)
+1) **No harassing behavior** (see below)
 1) **No advertising or self-promotion.**  
-If you can write a blog post about than you can talk with your peers here about it.  But don't post a link to your blog and expect people to go read it.  If you have an engaged discussion sharing of personally authored content is allowed.  Discussion should come first.
+If you can write a blog post about than you can talk with your peers here about it.  But don't post a link to your blog and expect people to go read it.  If you have an engaged discussion, sharing of personally authored content is permitted.  Discussion should come first.
 1) **Use your real name**  
-This is a communication medium to be used in support of the User Group.  It is not a place for anonymized personas. (This should now be eonforced server-side)
+This is a communication medium to be used in support of a real-world face-to-face User Group.  It is not a place for anonymous personae. (This should now be enforced server-side)
 1) **All content should be AWS or meetup relevant**  
 1) **You must be human**  
 Any posting entity suspected of being a bot will be immediately banned.
 
-Enforcement:
+Enforcement
 ----------------
-
-Rules are enforced by the Admins (see above)
-
+Rules are enforced by the Admins (see above)  
 Rule breaking content will be deleted and the poster warned.
-Continued posting of rule breaking content will result in the user being banned.
+Continued posting of rule breaking content will result in the user being banned.  
+Consequences of harassment are detailed below.
 
 
-Logs and Records:
+Logs and Records
 -----------------
-
 **Please be mindful that things you say here may at some point become public**. We cannot prevent people from screencapping or otherwise logging this slack. We also can't guarantee that every member's login credentials and logged-in devices are secure. Files uploaded here can be downloaded by anyone with a login. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
 
-Message Retention:
+Message Retention
 ------------------
-
 Because this is a free slack account, we have restricted scrollback, but Slack--the company--retains complete logs of all channels and direct messages back to the creation of this team. Slack is a U.S. company and therefore subject to subpoenas from U.S. courts. Our logs may be subject to subpoena and could become public as part of legal proceedings.
 
-
-Harassment:
+Harassment
 -----------
 
 Harassment includes:
