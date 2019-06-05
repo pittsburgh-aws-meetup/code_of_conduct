@@ -80,7 +80,7 @@ Consequences
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, the admins may take any action they deem appropriate, up to and including expulsion from this slack organizatiopn, public identification of said person, and banning of said person from participation in group events.
+If a participant engages in harassing behavior, the admins may take any action they deem appropriate, up to and including expulsion from this slack organization, public identification of said person, and banning of said person from participation in group events.
 
 Credits and License
 --------------------
