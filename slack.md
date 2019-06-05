@@ -7,7 +7,8 @@ Welcome!
 The purpose of this Slack team is to promote communication and collaboration between members of our Users' group.
 
 The current admins are:
-* Nathan Menge
+* Nathan Menge  
+* Lyle Seaman
 
 We want this to be a fun, pleasant, and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behavior are expected to comply immediately.
 
@@ -16,9 +17,17 @@ If you are interested in being an admin, please contact the Admins.
 Rules
 -----------------
 
-1) **No harassing behavior** (see below)
+1) **No harassing behavior** (see below)  
+Be mindful of the community to which you are a member  
+Be respectful of your fellow members  
+No doxxing, brigading, or other abusive actions   
 1) **No advertising or self-promotion.**  
 If you can write a blog post about than you can talk with your peers here about it.  But don't post a link to your blog and expect people to go read it.  If you have an engaged discussion, sharing of personally authored content is permitted.  Discussion should come first.
+1) **No *unwarranted* solicitiation**  
+Don't seek to sell services through the user group.  
+If someone asks for help, help them, if you are able.  
+In the course of assistance, if it is clear that a person represents a commerical entity, it is acceptable to suggest professional assistance    
+It is not expected that any member give professional assistance to anyone for free  
 1) **Use your real name**  
 This is a communication medium to be used in support of a real-world face-to-face User Group.  It is not a place for anonymous personae. (This should now be enforced server-side)
 1) **All content should be AWS or meetup relevant**  
@@ -71,7 +80,7 @@ Consequences
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, the admins may take any action they deem appropriate, up to and including expulsion from this slack and identifying the participant publicly as someone about whom we've received complaints.
+If a participant engages in harassing behavior, the admins may take any action they deem appropriate, up to and including expulsion from this slack organizatiopn, public identification of said person, and banning of said person from participation in group events.
 
 Credits and License
 --------------------
