@@ -16,13 +16,17 @@ If you are interested in being an admin, please contact the Admins.
 Rules
 -----------------
 
-1) **No harassing behavior** (see below)
-1) **No advertising or self-promotion.**  
-If you can write a blog post about than you can talk with your peers here about it.  But don't post a link to your blog and expect people to go read it.  If you have an engaged discussion, sharing of personally authored content is permitted.  Discussion should come first.
-1) **Use your real name**  
+1) **No harassing behavior** (see below)  
+
+2) **No advertising or self-promotion.**  
+If you can write a blog post about than you can talk with your peers here about it.  But don't post a link to your blog and expect people to go read it.  If you have an engaged discussion, sharing of personally authored content is permitted.  Discussion should come first.  
+
+3) **Use your real name**  
 This is a communication medium to be used in support of a real-world face-to-face User Group.  It is not a place for anonymous personae. (This should now be enforced server-side)
-1) **All content should be AWS or meetup relevant**  
-1) **You must be human**  
+
+4) **All content should be AWS or meetup relevant**  
+
+5) **You must be human**  
 Any posting entity suspected of being a bot will be immediately banned.
 
 Enforcement
