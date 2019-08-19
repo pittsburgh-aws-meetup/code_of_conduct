@@ -1,4 +1,4 @@
-With thanks to the Portland Python User Group - https://www.meetup.co...
+With thanks to the Portland Python User Group
 
 ## Harassment
 
