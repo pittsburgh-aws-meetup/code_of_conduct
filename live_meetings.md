@@ -8,7 +8,7 @@ Harassment includes offensive verbal or written comments related to sex, gender 
 
 ## Self Promotion & Soliciation
 
-Community members should not use the meetup, or meetup resources for promotion or solicitationwithout approval from the organizers. This includes but is not limited to blogs, social media, external websites, video sharing sites.
+Community members should not use the user group, or user group resources for promotion or solicitation without approval from the organizers. This includes but is not limited to blogs, social media, external websites, video sharing sites.
 
 ## Repercussions
 
